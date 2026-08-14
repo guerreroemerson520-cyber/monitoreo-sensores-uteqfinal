@@ -1,3 +1,5 @@
+<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/66538a95-cb0a-46b0-8aef-b8a4c62edb13" />
+
 # Monitoreo de Sensores UTEQ — Campus La María
 
 Aplicación React + Vite conectada a Firebase Realtime Database para visualizar en tiempo real
