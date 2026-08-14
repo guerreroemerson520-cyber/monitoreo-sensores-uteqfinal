@@ -1,0 +1,11 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": false,
+    "valoresHistoricos": {
+      "$sensorId": {
+        ".indexOn": ["timestamp"]
+      }
+    }
+  }
+}
